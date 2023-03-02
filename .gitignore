@@ -1,0 +1,15 @@
+# Ignore Emacs files
+*~
+.#*
+*#
+
+# Ignore backup files
+*.bak
+*.bak.*
+*~
+# Ignore autosave files
+*.autosave
+*.swo
+*.swp
+*.elc
+*.pyc
